@@ -4,16 +4,14 @@ html, body {
   overflow: hidden;
 }
 
-body {
-  background-color: rgb(255 214 234 / 75%);
-  /* background-image: url("./background/chrismas.png"); */
-  background-size: cover;
-}
-
 .iframe-container {
   display: flex;
-  height: 100%;
-  width: 100%;
+  height: 95%;
+  width: 95%;
+  background: rgb(255 214 234 / 75%);
+  border-radius: 15px;
+  background-size: cover;
+  /* background-image: url("./background/chrismas.png"); */
 }
 
 iframe {
