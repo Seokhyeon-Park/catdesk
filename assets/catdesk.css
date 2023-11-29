@@ -3,6 +3,12 @@ html, body {
   width: 100%;
 }
 
+body {
+  background-color: rgb(255 214 234 / 75%);
+  /* background-image: url("./background/chrismas.png"); */
+  background-size: cover;
+}
+
 .iframe-container {
   display: flex;
   height: 100%;
