@@ -1,4 +1,6 @@
-
+html, body {
+  overflow: hidden;
+}
 
 #hexo-helper-live2d {
   display: flex;
